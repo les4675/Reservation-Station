@@ -1,0 +1,96 @@
+Restore Archived Project report for lesReservationStation
+Thu Jan 30 01:21:14 2025
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Jan 30 01:21:14 2025 ;
+; Revision Name                   ; lesReservationStation                 ;
+; Top-level Entity Name           ; les4675ReservationStation_v           ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/schro/OneDrive/Desktop/EE721/Reservation-Station/lesReservationStation.qar' into the 'C:/Users/schro/OneDrive/Desktop/EE721/Reservation-Station/lesReservationStation/' directory
+Info: Generated report 'lesReservationStation.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4820 megabytes
+    Info: Processing ended: Thu Jan 30 01:21:14 2025
+    Info: Elapsed time: 00:00:00
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-----------------------------------------------+
+; Files Restored                                ;
++-----------------------------------------------+
+; File Name                                     ;
++-----------------------------------------------+
+; qar_info.json                                 ;
+; DE0_CV_golden_top.v                           ;
+; Execution_Phase.v                             ;
+; ID_Stage.v                                    ;
+; hardware_stack.v                              ;
+; les4675ReservationStation_v.v                 ;
+; lesRES_ram_v.qip                              ;
+; lesRES_ram_v.v                                ;
+; lesRES_ram_v_bb.v                             ;
+; lesReservationStation.qpf                     ;
+; lesReservationStation.qsf                     ;
+; lesReservationStation_assignment_defaults.qdf ;
+; lesReservationStation_v.v                     ;
+; les_CAM_v.v                                   ;
+; les_cache_2_v.qip                             ;
+; les_cache_2_v.v                               ;
+; les_cache_2_v_bb.v                            ;
+; les_cache_2w.v                                ;
+; load_instruction.v                            ;
+; memory_buffer.v                               ;
+; register_file.v                               ;
+; reorder_buffer.v                              ;
+; store_instruction.v                           ;
++-----------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
